@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/YRTTEUGIrOWyqkXjb8/giphy.gif" width="200" />
+    <img src="https://tenor.com/view/programmer-gif-19019116.gif" width="400">
     <div id="badges">
         <a href="https://www.linkedin.com/in/tkdeshpande">
             <img src="https://img.shields.io/badge/blog-000?style=for-the-badge&logo=ko-fi&logoColor=white"
@@ -15,15 +15,15 @@
                 alt="Twitter Badge" />
         </a>
     </div>
-    <!-- <img src="https://komarev.com/ghpvc/?username=tkdeshpande&style=flat-square&color=blue" alt=""/> -->
     <h1>
-  hey there
+    <!-- <img src="https://komarev.com/ghpvc/?username=tkdeshpande&style=flat-square&color=blue" alt=""/> -->
+  Hey there I'm Tejas
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
+
 </div>
 
 ### :man_technologist: About Me :
-I am a <img src="https://media.giphy.com/media/FcqDGnMp5uCJCBJTxo/giphy.gif" width="100">  QA & Software Developer in Test.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tkdeshpande-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkdeshpande)
 ---
@@ -41,7 +41,6 @@ I am a <img src="https://media.giphy.com/media/FcqDGnMp5uCJCBJTxo/giphy.gif" wid
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
 
 ---
 ### :writing_hand: Blog Posts :
