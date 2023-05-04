@@ -25,7 +25,12 @@
 
 ### :man_technologist: About Me :
 
+- :rocket: Passionate Test Automation Engineer with a hankering to solve problems especially the challenging ones :star_struck:.
+- :seedling: Exploring Technical Content Writing :writing_hand: for :arrow_up: Software Quality.
+- :zap: In my free time, I watch anime, find cool places to eat :bento: and follow 🔍 read tech updates.
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tkdeshpande-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkdeshpande)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
