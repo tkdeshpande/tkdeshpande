@@ -23,7 +23,7 @@
 
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 - :rocket: Passionate Test Automation Engineer with a hankering to solve problems especially the challenging ones :star_struck:.
 - :seedling: Exploring Technical Content Writing :writing_hand: for :arrow_up: Software Quality.
@@ -33,7 +33,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -48,4 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 ---
-### :writing_hand: Blog Posts :
+
+### :writing_hand: Blog Posts
+
+| Title                                                                                                                      | Date       |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Onboarding QAs & Automation Engineers](https://tkdeshpande.github.io/posts/qa-onboarding)                                 | 03-05-2022 |
+| [Getting Started with Selenium & Javascript](https://tkdeshpande.github.io/posts/getting-started-with-selenium-javascript) | 03-07-2022 |
